@@ -1,0 +1,54 @@
+{
+  "Uncategorized": [],
+
+  "Groceries": [
+    "walmart", "superstore", "save on foods", "loblaws", "spinneys", "tina european deli",
+    "costco", "no frills", "freshco", "t&t", "whole foods", "iga", "h mart", "safeway"
+  ],
+
+  "Shopping": [
+    "amazon", "winners", "homesense", "sephora", "sfu bookstore",
+    "london drugs", "shoppers drug mart", "best buy", "canadian tire", "michaels", "sport chek"
+  ],
+
+  "Food & Drinks": [
+    "mcdonalds", "burger king", "dominos", "pizza", "cactus club", "bc place", "pne",
+    "starbucks", "tim hortons", "a&w", "subway", "white spot", "earls", "joeys", "poke",
+    "sushi garden", "sushi california", "gong cha", "bubble world", "cockney kings", "dairy queen",
+    "chipotle", "nandos", "five guys", "fatburger"
+  ],
+
+  "Health & Beauty": [
+    "scissors", "haircut", "combs"
+  ],
+
+  "Travel": [
+    "air canada", "westjet", "etihad", "hilton", "booking.com", "expedia", "uber", "lyft", "airbnb"
+  ],
+
+  "Transportation": [
+    "petro", "esso", "shell", "husky", "city of van paybyphone", "translink", "compass", "parking",
+    "bc ferries"
+  ],
+
+  "Entertainment": [
+    "netflix", "spotify", "cineplex", "landmark cinemas", "rec room", "playdome", "playland", "steam"
+  ],
+
+  "Insurance": [
+    "insurance", "blue cross", "manulife", "icbc", "sun life"
+  ],
+
+  "Bank Fee": [
+    "fee", "interest charge", "overdraft", "nsf"
+  ],
+
+  "Utilities": [
+    "hydro", "bc hydro", "fortisbc", "telus", "shaw", "rogers", "fido", "bell", "chatr"
+  ],
+
+  "Subscriptions": [
+    "open ai", "prime member", "apple.com", "google", "microsoft", "dropbox", "adobe", "xbox",
+    "playstation", "disney+", "crave"
+  ]
+}
