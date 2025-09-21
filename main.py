@@ -76,7 +76,7 @@ def add_keyword_to_category(category, keyword):
 
 
 def main():
-    st.title("SImple Finance Dashboard")
+    st.title("Simple Finance Dashboard")
 
     # command in streamlit
     uploaded_file = st.file_uploader("Upload your transaction CSV file", type=["csv"])
